@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Nero298/Nero298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Nero298
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=lua,python,js&theme=dark" alt="Lua, Python, JavaScript"/>
+
+### About Me
+
+Hey! I'm Nero
+I enjoy coding, gaming, and learning new things.
+
+</div>
